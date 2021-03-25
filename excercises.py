@@ -132,7 +132,7 @@ if word == rvs:
 else:
     print("False")
 
-"""
+
 
 
 "EXERCISE # 7"
@@ -142,7 +142,7 @@ arrEve = []
 
 [arrEve.append(i) for i in a if i%2 == 0 and 10<i<50] 
 print(arrEve)
-
+"""
 
 
 
